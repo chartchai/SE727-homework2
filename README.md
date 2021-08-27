@@ -1,4 +1,4 @@
-# se494-homework2
+# se727-homework2
 This is the source code for the homework 2 find the test case 
 You can get the source code from
 Create the automated test code from the given source code.
